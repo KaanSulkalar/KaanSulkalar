@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaanSulkalar
-- 👀 I’m interested in Finance Technologies & Trading Algorithms
+- 👀 I’m interested in 
 - 🌱 I’m currently learning Software Testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
