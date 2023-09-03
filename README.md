@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KaanSulkalar
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Software Testing
+- 👀 I’m interested in Trading Alghoritms
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kaansulkalar4@gmail.com
 
 <!---
 KaanSulkalar/KaanSulkalar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
